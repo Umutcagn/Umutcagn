@@ -23,7 +23,7 @@
 
 - 🎓 **Education:** B.Sc. in Industrial Engineering, Bursa Technical University (expected 2028)
 - 🎯 **Core Focus:** Operations Research, Mathematical & Heuristic Modeling, Data-driven Decision Making
-- 🛠️ **Tech Stack:** Python (PyTorch, scikit-learn, LightGBM, OR-Tools, pandas), TypeScript / JavaScript (React, Next.js), FastAPI, Streamlit, Firebase · also SQL (MS SQL), Angular, Supabase
+- 🛠️ **Tech Stack:** Python (PyTorch, scikit-learn, LightGBM, OR-Tools, pandas), TypeScript / JavaScript (React, Next.js), FastAPI, Streamlit, Firebase · also SQL (MS SQL), Supabase
 - 🔭 **Currently learning:** combinatorial optimization, applied ML for operations, and building end-to-end analytical web/mobile apps
 
 ---
@@ -31,7 +31,7 @@
 ### 🛠️ Languages & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,ts,js,react,nextjs,fastapi,firebase,angular,supabase,git" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,ts,js,react,nextjs,fastapi,firebase,supabase,git" alt="Skills" />
 </p>
 
 ---
